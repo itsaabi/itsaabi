@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736872e92ff5d2f3e2169f61d8" alt="Custom Banner" width="30%" />
+  <img src="http://csorpanipuri.fun:8000/ievma8.jpg" alt="Custom Banner" width="30%" />
 </p>
 
 ---
