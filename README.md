@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://rare-gallery.com/uploads/posts/1193055-anime-anime-girls-THE-The-Idolmaster-Shiny-Colors.jpg" alt="Custom Banner" width="30%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F38Hom3cEEHedYfNq2eUjlQ&psig=AOvVaw3Zv2NzUoCrK4y72wgP93ZZ&ust=1725644727031000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDtvNmtrIgDFQAAAAAdAAAAABAE" alt="Custom Banner" width="30%" />
 </p>
 
 ---
