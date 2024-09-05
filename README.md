@@ -46,9 +46,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsaabi&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=samunderSingh12&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsaabi&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunderSingh12&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsaabi&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 ---
