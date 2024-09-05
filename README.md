@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Welcome to ABid_HuSSain's GitHub Profile 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Enthusiast;Blockchain+Explorer;Poet+%7C+Music+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=BlockChain+Developer;Enthusiast;Blockchain+Explorer;Poet+%7C+Music+Lover" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
   <ul style="list-style-type: none; color: #fff; text-align: left; font-size: 18px;">
     <li>💻 Currently diving deep into <b>Blockchain</b> and <b>Machine Learning</b>.</li>
     <li>🎨 Besides coding, I love <b>music</b>, <b>sketching</b>, and writing <b>poetry</b>.</li>
-    <li>✨ Looking forward to creating revolutionary <b>AI solutions</b>.</li>
+    <li>✨ Looking forward to creating revolutionary <b>BlockChain solutions</b>.</li>
     <li>📖 Passionate about exploring new technologies and improving my skills.</li>
   </ul>
 </div>
@@ -45,7 +45,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samunderSingh12&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsaabi&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=samunderSingh12&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samunderSingh12&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
