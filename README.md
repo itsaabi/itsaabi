@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fopen.spotify.com%2Falbum%2F38Hom3cEEHedYfNq2eUjlQ&psig=AOvVaw3Zv2NzUoCrK4y72wgP93ZZ&ust=1725644727031000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDtvNmtrIgDFQAAAAAdAAAAABAE" alt="Custom Banner" width="30%" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736872e92ff5d2f3e2169f61d8" alt="Custom Banner" width="30%" />
 </p>
 
 ---
