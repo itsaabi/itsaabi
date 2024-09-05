@@ -75,7 +75,7 @@
 <h3 align="center">💡 Fun Fact: I love Chai and Roti 🍵</h3>
 
 <p align="center">
-  <img src="https://uploads.disquscdn.com/images/84c2e3883c2518093ab51a3ed17d9b8969c78d98aa42a5fbf29b65a41788359b.gif" alt="Chai Gif" width="200px" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frubygarage.org%2Fblog%2Fhow-blockchain-works&psig=AOvVaw2ofn38Kz3j1yHVgQAGXcB2&ust=1725645920115000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNj-oJKyrIgDFQAAAAAdAAAAABAo" alt="Chai Gif" width="200px" />
 </p>
 
 ---
